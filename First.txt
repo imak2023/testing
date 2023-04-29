@@ -1,6 +1,3 @@
 modified First.txt
-Do until
-++ i
-output i
-i=200
+
 Changed
